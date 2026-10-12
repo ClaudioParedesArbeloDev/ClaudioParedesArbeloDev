@@ -2,10 +2,6 @@
 <h3 align="center">Full Stack Developer · Laravel · Flutter · React · Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+APIs+%7C+Flutter+multiplataforma;SaaS+multi-tenant+en+producci%C3%B3n+%F0%9F%9A%80;Founder+%40+Code+%26+Lens+Solutions" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.claudioparedes.site"><img src="https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/claudioparedesarbelo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/codelenssolutions/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -74,14 +70,6 @@ Full Stack developer from **Rosario, Argentina** and founder of **Code & Lens So
 | 🎓 **[Code & Lens Platform](https://github.com/ClaudioParedesArbeloDev/platform-laravel-taildwind)** | Plataforma de cursos en producción: pagos, aula virtual, asistencia, blog, tienda de software, ES/EN | Laravel 12 · Livewire · Tailwind |
 | 🛍️ **[GLD Servicios](https://github.com/ClaudioParedesArbeloDev/GLD-Services)** | E-commerce para cliente con panel admin, Mercado Pago y cotización de envíos | React · Express · MySQL · Auth0 |
 | ⚡ **[Portfolio Next.js](https://github.com/ClaudioParedesArbeloDev/nextjs-porfolio)** | Portfolio con Server Components que lee cursos en vivo con Prisma | Next.js 16 · Prisma |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioParedesArbeloDev&hide_border=true" alt="streak stats" />
-</p>
 
 ---
 
